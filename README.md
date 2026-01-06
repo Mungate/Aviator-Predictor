@@ -26,7 +26,7 @@
 
 ## Installation
 
-1. **Install on PC**: [Download Aviator Predictor for PC]
+1. **Install on android [Download Aviator Predictor forandroid
 ## Getting Started
 
 The **Aviator Predictor** offers reliable and accurate insights that can elevate your gameplay. Designed for ease of use and optimal performance, it’s suited for both newcomers and experienced players.
